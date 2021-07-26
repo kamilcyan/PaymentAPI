@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PaymentAPI.Models
 {
-    public class PaymentDetails
+    public class PaymentDetail
     {
         [Key]
         public int PaymentDetailID { get; set; }
